@@ -72,12 +72,21 @@ It includes:
 
 ---
 
+### 6. Product Analysis
+
+* Identified top products by revenue
+
+---
+
 ## 🔍 Key Insights
 
 * São Paulo dominates both order volume and revenue (~2.17M), indicating strong market concentration
 * Revenue is heavily concentrated in top cities like Rio de Janeiro and Belo Horizonte
-* Customer revenue contribution is relatively distributed, with no extreme dependency on a single customer
-* Significant drop in revenue after top cities suggests opportunities for expansion in mid-tier regions
+* Average Order Value is ~160.58, indicating moderate customer spending per transaction
+* Revenue and order volume peaked in November 2017, suggesting strong seasonal demand
+* Revenue remained consistently high in early 2018, indicating sustained business growth
+* Product revenue is well distributed, showing diversified demand with no heavy dependency on a single product
+* Significant drop in late 2018 data is due to incomplete dataset
 
 ---
 
